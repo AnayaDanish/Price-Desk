@@ -3,7 +3,9 @@
 **Assignment:** DA-3 – Two Averages, One Argument
 
 **Student:** Anaya Danish
-***ERP:** 36148
+
+**ERP:** 36148
+
 **Dataset:** teaching_prices_cleaned.csv
 
 **Main tasks:**
